@@ -5,3 +5,5 @@ Permet d'ajouter un QRCode sous les vidéos de Arrêt sur Images pour récupére
 
 Le script est disponible au téléchargement ici :
 https://greasyfork.org/en/scripts/11387-arr%C3%AAt-sur-image-qrcode
+
+<img src="https://greasyfork.org/system/screenshots/screenshots/000/001/577/original/arretsurimage.gif?1438544636" />
