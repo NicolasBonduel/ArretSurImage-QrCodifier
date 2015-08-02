@@ -1,5 +1,5 @@
 # ArretSurImage-QrCodifier
-Permet d'ajouter un QRCode sous les vidéos de Arrêt sur Images pour récupérer les vidéos sur son smartphone, et pourquoi pas les chromecaster sur un téléviseur !
+Permet d'ajouter un QRCode sous les vidéos de <a href="http://www.arretsurimages.net/">Arrêt sur Images</a> pour récupérer les vidéos sur son smartphone, et pourquoi pas les chromecaster sur un téléviseur !
 
 (Nécessite un navigateur compatible avec les UserScript comme Chrome ou Firefox avec le module "<a href="https://addons.mozilla.org/fr/firefox/addon/greasemonkey/">Greasemonkey</a>")
 
